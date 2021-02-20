@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sky War</string>
+    <string name="sky_war">Sky War</string>
+    <string name="todo">TODO</string>
+    <string name="play_again">Play Again</string>
+    <string name="game_over">Game Over</string>
+    <string name="textview">TextView</string>
+    <string name="score">Score</string>
+    <string name="sscore">sScore</string>
+</resources>
